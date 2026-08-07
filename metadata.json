@@ -1,0 +1,6 @@
+{
+  "name": "SBO Scaffolding Services",
+  "description": "Reliable & Affordable Scaffolding Services in Leeds - Open 24 Hours",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
